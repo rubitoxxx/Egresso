@@ -122,6 +122,9 @@ Gerenciamento de Dados: Integração simples e eficaz com o sistema de gestão d
 
 🙋‍♂️ Autor
 [Rubens Gabriel]
+
 📫 [Rubensgabrielesilvasantos@gmail.com]
+
 🔗 https://www.linkedin.com/in/rubens-gabriel-221679263
+
 💻 https://github.com/rubitoxxx
